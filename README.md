@@ -1,6 +1,6 @@
 # AI-Agents-Newsletter-Crew-2.0
 
-An AI-powered content generation pipeline featuring OpenAI LLMs, Exa API for real-time web search, and a Streamlit-based GUI. Automates the process of researching, writing, and editing newsletters with seamless collaboration between AI agents.
+An AI-powered content generation pipeline featuring OpenAI LLMs, Exa API for real-time web search, and a Streamlit-based GUI. Automates the process of researching, writing, and editing newsletters through collaboration between AI agents.
 
 ---
 
