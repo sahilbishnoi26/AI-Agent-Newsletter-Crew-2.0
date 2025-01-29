@@ -60,10 +60,10 @@ An AI-powered content generation pipeline featuring OpenAI LLMs, Exa API for rea
    ```
    - Enter a topic and a personal message in the UI.
    - Click "Generate Newsletter" to start the process.
-   - Download the generated newsletter as an HTML file.
+   ![alt text](https://github.com/sahilbishnoi26/AI-Agent-Newsletter-Crew-2.0/blob/main/pic1.png)
      
-![alt text](https://github.com/sahilbishnoi26/AI-Agent-Newsletter-Crew-2.0/blob/main/pic1.png)
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+   - Download the generated newsletter as an HTML file.
+   [a link](https://github.com/sahilbishnoi26/AI-Agent-Newsletter-Crew-2.0/blob/main/newsletter.html)
 
 
 ## Troubleshooting
