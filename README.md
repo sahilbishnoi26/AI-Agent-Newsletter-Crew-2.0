@@ -17,7 +17,7 @@ An AI-powered content generation pipeline featuring OpenAI LLMs, Exa API for rea
 
 ## Technologies Used
 - **CrewAI**: Manages AI agents and task execution.
-- **DeepSeek-R1-distill-llama-70b**: Uses State of the Art LLM via Groq API
+- **ChatGPT-4o**: Uses OpenAI's ChatGPT-4o model, optional support for open source models via Groq API
 - **LangChain**: Integrates language models for content processing.
 - **Streamlit**: Provides a web-based UI for user interaction.
 - **Exa API**: Fetches and processes real-time news data.
