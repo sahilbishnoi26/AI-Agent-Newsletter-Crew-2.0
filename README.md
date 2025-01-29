@@ -56,18 +56,15 @@ An AI-powered content generation pipeline featuring OpenAI LLMs, Exa API for rea
 ## Usage
 ### 1. Run the Web Application
    ```
-   streamlit run app.py
+   streamlit run src/gui/app.py
    ```
    - Enter a topic and a personal message in the UI.
    - Click "Generate Newsletter" to start the process.
    - Download the generated newsletter as an HTML file.
+     
+![alt text]()
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
-### 2. Run from Command Line
-   ```
-   python main.py
-   ```
-   - Enter the topic and personal message when prompted.
-   - The generated newsletter will be saved as an HTML file.
 
 ## Troubleshooting
 - **Issue**: Dependencies missing  
