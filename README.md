@@ -22,6 +22,8 @@ An AI-powered content generation pipeline featuring OpenAI LLMs, Exa API for rea
 - **Streamlit**: Provides a web-based UI for user interaction.
 - **Exa API**: Fetches and processes real-time news data.
 
+## Project Schema
+![alt text](https://github.com/sahilbishnoi26/AI-Agent-Newsletter-Crew-2.0/blob/main/crewai-newsletter.png)
 ## Installation
 1. **Clone the Repository**  
    ```
